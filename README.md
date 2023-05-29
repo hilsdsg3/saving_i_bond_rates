@@ -24,7 +24,7 @@
 
 You can find the interactive chart below:
 
-<iframe src="[chart.html](https://github.com/hilsdsg3/savings_i_bond_rates/blob/main/chart.html)" width="500" height="400"></iframe>
+<iframe src="https://hilsdsg3.github.io/savings_i_bond_rates/chart.html" width="500" height="400"></iframe>
 
 
 More coming ....
