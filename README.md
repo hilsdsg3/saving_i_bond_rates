@@ -4,6 +4,12 @@
 
 ## Objective
 
+&nbsp;&nbsp;&nbsp; This project extracts the Savings I-bond rates from the United States Treasury with a python package called Selenium. The goal is to extract,transform, and load historical rates into a database.
+
+The chart below depicts what is extracted from [Treasury Direct](https://www.treasurydirect.gov/savings-bonds/i-bonds/). Aninterative chart is this [repository's Github page](https://hilsdsg3.github.io/savings_i_bond_rates/).
+
+
+
 - [Extract Historical Saving I-bond rates](#helpful_cmd_line_commands)
 - [Utilize the Selenium package](#interacting_postgres)
 - [Extract the bond rates through html code](#improvements)
@@ -24,7 +30,7 @@
 
 You can find the interactive chart below:
 
-<iframe src="chart.html" width="500" height="400"></iframe>
+<iframe src="chart.html" width="800" height="400"></iframe>
 
 
 More coming ....
