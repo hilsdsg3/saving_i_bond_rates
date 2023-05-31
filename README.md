@@ -30,7 +30,7 @@ The chart below depicts what is extracted from [Treasury Direct](https://www.tre
 ![Savings I-bond rate chart](https://github.com/hilsdsg3/savings_i_bond_rates/blob/main/chart.png)
 
 or interactively on the [github.page](https://hilsdsg3.github.io/savings_i_bond_rates/) 
-<iframe src="chart.html" width="800" height="400"></iframe>
+<iframe src="https://github.com/hilsdsg3/savings_i_bond_rates/blob/main/chart.html" width="800" height="400"></iframe>
 
 
 More coming ....
