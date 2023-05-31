@@ -27,9 +27,10 @@ The chart below depicts what is extracted from [Treasury Direct](https://www.tre
 &nbsp;&nbsp;&nbsp; For the project I am able to obtain the Fixed and Inflation portion of the bond rate and the Composite. This is achieved by scraping the [Historical bond rates](https://www.treasurydirect.gov/savings-bonds/i-bonds/i-bonds-interest-rates/) using the Selenium package and [regex formulas](https://regex101.com/).
 
 &nbsp;&nbsp;&nbsp; The resulting chart is the following.
-![Savings I-bond rate chart](https://github.com/hilsdsg3/savings_i_bond_rates/blob/main/chart.jpg)
+![Savings I-bond rate chart](https://github.com/hilsdsg3/savings_i_bond_rates/blob/main/chart.png)
 
 or interactively on the [github.page](https://hilsdsg3.github.io/savings_i_bond_rates/) 
+<iframe src="chart.html" width="800" height="400"></iframe>
 
 
 More coming ....
