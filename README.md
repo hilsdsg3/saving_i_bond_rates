@@ -31,3 +31,7 @@ The chart below depicts what is extracted from [Treasury Direct](https://www.tre
 
 The Compsite equation is derived from the Fixed and Inflation rate but not linearily.
 ![equation](http://latex.codecogs.com/gif.latex?Composite{\;\;}rate&space;=&space;fixed{\;\;}rate&space;&plus;&space;(2{\;}\ast&space;{\;}semi-annual{\;\;}inflation{\;\;}rate)&space;&plus;&space;(fixed{\;\;}rate{\;}\ast{\;}semi-annual&space;{\;}{\;}inflation{\;\;}rate))
+
+![equation](http://latex.codecogs.com/gif.latex?O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t)
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
