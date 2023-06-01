@@ -34,4 +34,4 @@ The Compsite equation is derived from the Fixed and Inflation rate but not linea
 
 ![equation](http://latex.codecogs.com/gif.latex?O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t)
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
