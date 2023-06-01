@@ -27,7 +27,6 @@ The chart below depicts what is extracted from [Treasury Direct](https://www.tre
 
 &nbsp;&nbsp;&nbsp; The resulting static chart is the following or interactively on my [github.page](https://hilsdsg3.github.io/savings_i_bond_rates/). 
 
-{% include chart.html %}
 ![Savings I-bond rate chart](https://github.com/hilsdsg3/savings_i_bond_rates/blob/main/chart.png)
 
 
