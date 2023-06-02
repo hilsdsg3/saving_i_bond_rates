@@ -30,8 +30,5 @@ The chart below depicts what is extracted from [Treasury Direct](https://www.tre
 ![Savings I-bond rate chart](https://github.com/hilsdsg3/savings_i_bond_rates/blob/main/docs/chart.png)
 
 The Compsite equation is derived from the Fixed and Inflation rate but not linearily.
-![equation](http://latex.codecogs.com/gif.latex?Composite{\;\;}rate&space;=&space;fixed{\;\;}rate&space;&plus;&space;(2{\;}\ast&space;{\;}semi-annual{\;\;}inflation{\;\;}rate)&space;&plus;&space;(fixed{\;\;}rate{\;}\ast{\;}semi-annual&space;{\;}{\;}inflation{\;\;}rate))
 
-![equation](http://latex.codecogs.com/gif.latex?O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t)
-
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+$$\text{Composite rate = fixed rate + (2 * semi-annual inflation rate) + fixed rate * semi-annual inflation rate}$$
